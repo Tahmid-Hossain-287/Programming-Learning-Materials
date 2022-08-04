@@ -1,0 +1,11 @@
+1. For learning C++
+https://www.learncpp.com/
+
+2. For leaning kotlin as a python developer
+https://khan.github.io/kotlin-for-python-developers/
+
+3. MIT missing semester. The easily overlooked parts of programming are taught here.
+https://missing.csail.mit.edu/
+
+4. A cluster of text based tutorial on various programming topics.
+https://www.mooc.fi/en/#courses
