@@ -9,3 +9,6 @@ https://missing.csail.mit.edu/
 
 4. A cluster of text based tutorial on various programming topics.
 https://www.mooc.fi/en/#courses
+
+5. Flask explained in the best possible way
+http://exploreflask.com/en/latest/index.html
