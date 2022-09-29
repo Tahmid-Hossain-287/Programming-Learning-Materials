@@ -18,3 +18,6 @@ https://www.notion.so/4f0d76b4b6b54c88a4c99d665018bb66?v=a4f27ffcbe0a4776b796eed
 
 7. A great text based tutorial to pick up programming languages fast
 https://www.tutorialsteacher.com/
+
+8. Reasons to learn programming
+https://www.reddit.com/r/learnprogramming/comments/c4hedg/has_anyone_succesfully_switched_from_gaming_all/
