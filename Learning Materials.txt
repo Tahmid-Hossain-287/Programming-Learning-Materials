@@ -21,3 +21,6 @@ https://www.tutorialsteacher.com/
 
 8. Reasons to learn programming
 https://www.reddit.com/r/learnprogramming/comments/c4hedg/has_anyone_succesfully_switched_from_gaming_all/
+
+9. For learning git very thoroughly
+https://tom.preston-werner.com/2009/05/19/the-git-parable.html
