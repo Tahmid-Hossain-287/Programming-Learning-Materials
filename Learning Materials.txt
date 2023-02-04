@@ -24,3 +24,7 @@ https://www.reddit.com/r/learnprogramming/comments/c4hedg/has_anyone_succesfully
 
 9. For learning git very thoroughly
 https://tom.preston-werner.com/2009/05/19/the-git-parable.html
+
+10. ChatGPT prompt guide. Learn to use chatGPT the best way using effective prompts.
+https://github.com/f/awesome-chatgpt-prompts
+https://prompts.chat/
