@@ -28,3 +28,6 @@ https://tom.preston-werner.com/2009/05/19/the-git-parable.html
 10. ChatGPT prompt guide. Learn to use chatGPT the best way using effective prompts.
 https://github.com/f/awesome-chatgpt-prompts
 https://prompts.chat/
+
+11. For learning C++ as a python programmer.
+https://cs.berea.edu//cpp4python/index.html
