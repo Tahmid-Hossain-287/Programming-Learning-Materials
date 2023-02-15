@@ -30,4 +30,4 @@ https://github.com/f/awesome-chatgpt-prompts
 https://prompts.chat/
 
 11. For learning C++ as a python programmer.
-https://cs.berea.edu//cpp4python/index.html
+https://runestone.academy/ns/books/published/cpp4python/index.html
