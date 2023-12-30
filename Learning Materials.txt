@@ -34,3 +34,9 @@ https://runestone.academy/ns/books/published/cpp4python/index.html
 
 12. 450 Data Structure and Algorithm Interview Problem Question by Love Babbar
 A .xlsx file is uploaded in this repository containing all the questions organized by type.
+
+13. An excellent webpage dedicated to preparing for software engineer interview.
+https://www.techinterviewhandbook.org/software-engineering-interview-guide/
+
+14. Github repo for preparing for software engineering interview
+https://github.com/jwasham/coding-interview-university
