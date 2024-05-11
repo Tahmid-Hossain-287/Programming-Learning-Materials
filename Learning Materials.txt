@@ -40,3 +40,6 @@ https://www.techinterviewhandbook.org/software-engineering-interview-guide/
 
 14. Github repo for preparing for software engineering interview
 https://github.com/jwasham/coding-interview-university
+
+15. Website to learn about a programming language very fast, to get started developing fast. Meant for people who already know a language. 
+https://learnxinyminutes.com/
